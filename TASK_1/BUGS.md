@@ -9,7 +9,7 @@
 **Фактический результат:** в выдаче присутствуют вакансии с локациями Москва.  
 **Ожидаемый результат:** в выдаче должны быть вакансии, соответствующие выбранному городу “Санкт-Петербург”.  
 **Почему такой приоритет:** ломает ключевую фильтрацию — пользователь получает нерелевантные результаты.
-## (https://github.com/nikitenko337/avito-qa-test-task/blob/main/TASK_1/Image_bugs/Image_bug_01.jpg)
+## ![alt text](https://github.com/nikitenko337/avito-qa-test-task/blob/main/TASK_1/Image_bugs/Image_bug_01.jpg)
 
 ## BUG-02 — Неверные подкатегории при выбранном направлении “Data Science”
 **Priority:** High
